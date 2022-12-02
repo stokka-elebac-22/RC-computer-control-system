@@ -1,5 +1,5 @@
 # RC-computer-control-system
-Computer based (Qt+Python+CAN) control system
+Computer based (Qt+Python+CAN) control system. Based on ELE340 ComputerControlSystem (https://github.com/ELE340/ComputerControlSystem)
 
 # Overview
 
