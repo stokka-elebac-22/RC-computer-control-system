@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "rc-management-gui"
+version = "0.1.0"
+description = ""
+authors = ["Asbjørn Stokka <asbjorn@maxit-as.com>"]
+readme = "README.md"
+packages = [{include = "rc_management_gui"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+hypothesis = "^6.60.0"
+argparse = "^1.4.0"
+pyqt5 = "^5.15.7"
+pyqtgraph = "^0.13.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
